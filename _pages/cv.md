@@ -7,4 +7,4 @@ author_profile: true
 
 <embed src="/assets/CV_Corporate.pdf" type="application/pdf" width="100%" height="800px" />
 
-You can also [download the PDF](/assets/CV_Corporate.pdf) directly.
+Here is my detailed <a href="/assets/CV_Corporate.pdf" target="_blank">CV</a>.
