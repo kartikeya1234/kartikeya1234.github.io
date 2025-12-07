@@ -1,3 +1,10 @@
+---
+title: "Publications"
+permalink: /publications/
+layout: single
+author_profile: true
+---
+
 <style>
 .bibtex.noshow {
   display: none;
@@ -7,6 +14,11 @@
   padding: 10px;
   background-color: #f5f5f5;
   border-radius: 4px;
+}
+.bibtex pre {
+  margin: 0;
+  white-space: pre-wrap;
+  word-wrap: break-word;
 }
 </style>
 
@@ -21,12 +33,6 @@ function toggleBibtex(label) {
 }
 </script>
 
----
-title: "Publications"
-permalink: /publications/
-layout: single
-author_profile: true
----
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=Cb6W6tgAAAAJ&hl=en).
 
 <h4 style="margin-bottom:0px;padding-top:10px;">Preprints</h4>
