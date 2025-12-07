@@ -6,7 +6,6 @@ author_profile: true
 ---
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=Cb6W6tgAAAAJ&hl=en).
 
-### Preprints
 <h4 style="margin-bottom:0px;padding-top:10px;">Preprints</h4>
 <ul class="preprint_list">
 
