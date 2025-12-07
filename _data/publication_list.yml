@@ -1,0 +1,20 @@
+- title: "Training on Plausible Counterfactuals Removes Spurious Correlations"
+  year: 2025
+  type: preprint
+  label: sadiku2025training
+  image: 
+  description: 
+  authors: Shpresim Sadiku, Kartikeya Chitranshi, Hiroshi Kera, Sebastian Pokutta
+  link_pre:
+    url: https://arxiv.org/abs/2505.16583
+    display: arXiv:2505.16583 (2025)
+  link_main:
+    url: 
+    display: 
+  bibtex: |
+        @article{sadiku2025training,
+                  title={Training on Plausible Counterfactuals Removes Spurious Correlations},
+                  author={Sadiku, Shpresim and Chitranshi, Kartikeya and Kera, Hiroshi and Pokutta, Sebastian},
+                  journal={arXiv preprint arXiv:2505.16583},
+                  year={2025}
+                }
