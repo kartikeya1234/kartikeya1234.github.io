@@ -17,4 +17,4 @@ This master's thesis investigates the comparative effectiveness of sparse and no
 
 Notably, the findings reveal that non-sparse adversarial attacks achieved superior performance relative to their sparse counterparts, even under conditions of minimal perturbation magnitude. Furthermore, a comparative analysis of training paradigms indicates that counterfactual-based training yielded marginally enhanced model robustness compared to adversarial training approaches, as evidenced by improved performance across image-text retrieval and image classification benchmarks spanning multiple datasets.
 
-[View Master's Thesis (PDF)](/assets/documents/MastersThesis_475703.pdf) 
+<a href="/assets/documents/MastersThesis_475703.pdf" style="display: inline-block; padding: 12px 24px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: 600; margin-top: 10px; transition: background-color 0.3s ease;" onmouseover="this.style.backgroundColor='#0256c5'" onmouseout="this.style.backgroundColor='#0366d6'">📄 View Master's Thesis (PDF)</a> 
