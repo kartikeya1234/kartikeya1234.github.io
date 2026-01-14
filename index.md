@@ -11,3 +11,10 @@ I am interested in Adversarial Machine Learning. I have worked on problems in th
 - Adversarial robustness of multi-modal foundation models. 
 - Transferbility of adversarial attacks. 
 - Mitigation of spurious correlations through plausible counterfactuals.
+
+### Recent Works
+This master's thesis investigates the comparative effectiveness of sparse and non-sparse adversarial perturbations on multi-modal foundation models, with particular emphasis on vision-language architectures within the OpenFlamingo model family. The research demonstrates that both attack methodologies successfully compromised model integrity, eliciting outputs ranging from semantically incongruent captions to potentially harmful textual content in Visual Question Answering and Image Captioning tasks.
+
+Notably, the findings reveal that non-sparse adversarial attacks achieved superior performance relative to their sparse counterparts, even under conditions of minimal perturbation magnitude. Furthermore, a comparative analysis of training paradigms indicates that counterfactual-based training yielded marginally enhanced model robustness compared to adversarial training approaches, as evidenced by improved performance across image-text retrieval and image classification benchmarks spanning multiple datasets.
+
+[View Master's Thesis (PDF)](/assets/documents/MastersThesis_475703.pdf) 
